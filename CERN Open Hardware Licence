@@ -1,0 +1,114 @@
+CERN Open Hardware Licence - Introduction
+Myriam Ayass, legal adviser of the Knowledge and Technology Transfer
+Group at CERN and author of the CERN OHL:
+
+The CERN–OHL is to hardware what the free and open-source licences are to software. It defines the conditions under which a licensee will be able to use or modify the licensed material. It shares the same principles as free software or open-source software: anyone should be able to see the source – the design documentation in the case of hardware – study it, modify it and share it.
+
+The CERN Open Hardware Licence was originally written for CERN designs
+hosted in the Open Hardware Repository. It can also be used by any
+designer wishing to share design information using a licence compliant
+with the OSHW definition criteria. If
+you would like to contribute to make it better, please subscribe to the
+Discourse forum and submit any issue you may have.
+
+
+CERN Open Hardware Licence v2
+
+
+CERN OHL version 2. Contains the licence texts for the three variants and a rationale document to explain the decisions we took while drafting them.
+
+CERN Open Hardware Licence V2, an introduction. 40 minute recording of CH Open Business Event (1/12/2020)
+
+
+Older versions of the licence
+
+
+CERN OHL version 1.2. Contains the licence itself and a guide to its usage.
+
+CERN OHL version 1.1. Contains the licence itself and a guide to its usage.
+
+
+Misc
+
+
+SPDX License List with CERN OHL SPDX identifiers
+
+Example of usage in
+the Simple PCIe FMC carrier
+project.
+Unofficial translations of the CERN OHL
+CERN Knowledge transfer - CERN Open Hardware Licence
+CERN Knowledge transfer - Open Source Software and Hardware (V2.0)
+Frequently Asked Questions
+
+
+
+Some CERN OHL Users
+
+Projects using the CERN Open Hardware Licence
+
+What CERN writes about OHR (the site) and OHL (the licence)
+
+Open Science at CERN - Fabiola Gianotti, CERN Director-General at EPFL Open Science Day (Oct.2019)
+CERN Brochure: Open Hardware at CERN (pdf, 1MB,
+March 2015)
+CERN Courier: Hardware joins the open
+movement (June
+2011)
+CERN Bulletin: Open hardware for open
+science
+(July 2011)
+CERN Press Release: CERN launches Open Hardware
+initiative
+(July 2011)
+
+CERN Annual
+Report 2011
+
+Message from the President of
+Council
+(page 4)
+
+Making an
+impact
+(page 32)
+
+
+CERN updates: CERN releases new version of open hardware
+licence
+(September 2013)
+CERN KT: New version of CERN open hardware licence, Version 1.2 of
+CERN OHL is lighter on the
+users
+(September 2013)
+
+See also
+
+Licences used for CERN Open Hardware
+designs
+
+OHR Meta project
+(about Open Hardware and related subjects; CERN)
+Brief History of Open Source Hardware Organizations and
+Definitions
+
+freedomdefined.org
+
+OSHW definition criteria
+Comparison of Licences
+
+TAPR Open Hardware License (another
+OH licence; non-CERN)
+
+Free HDL License
+(project for licensing Free Software in HDL forms; non-CERN)
+Katz, Andrew (2012) 'Towards a Functional Licence for Open
+Hardware',
+IFOSS L. Rev., 4(1), pp 41-62, DOI: 10.5033/ifosslr.v4i1.69.
+
+Software Package Data Exchange, a standard
+format for communicating the components, licenses and copyrights
+associated with software packages.
+
+REUSE Software, Make licensing easy for everyone
+Defensive publications
